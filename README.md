@@ -14,9 +14,9 @@ This repo is adapted and updated by TWNWAKing.
 
 改好的版本我放在<https://twnwaking.github.io/twpca/>
 
-主要的修改是是補上連結為主，其他內容都沒什麼改。
+主要的修改是是補上題目跟記分板的連結為主，其他內容都沒什麼改。
 
-然後有問題issue發一下，我會看到的(沒有在偷臭)。
+然後有問題issue發一下，我會看到的owob(沒有在偷臭)。
 
 我不擁有任何題目的所有權。(廢話)
 

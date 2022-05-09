@@ -68,7 +68,7 @@ layout: default
     </td>
     <td><a href="//nhspc2021.twpca.org/editorial/editorial">E</a></td>
     <td><a href="//nhspc2021.twpca.org/release/problem/problems.pdf">PS</a></td>
-    <td>-</td>
+    <td><a href="//sorahisa.github.io/OI/DumpedRanks/nhspc2021_fin/ranking/Ranking.html">SC</a></td>
     <td><a href="//github.com/twpca/nhspc-2021/tree/main/release/testdata">T</a></td>
     <td>-</td>
     <td>-</td>
@@ -84,7 +84,7 @@ layout: default
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/config">Config</a></td>
     <td><a href="//hiiragi4000.blogspot.com/2020/12/109.html">E</a></td>
     <td><a href="nhspc-2020/nhspc-2020-problemset.pdf">PS</a></td>
-    <td>-</td>
+    <td><a href="//cms.tfcis.org/dumprank/rank/rank133/">SC</a></td>
     <td>-</td>
     <td>
       <a href="//hiiragi4000.blogspot.com/2021/01/2020.html">hiiragi4000</a>
@@ -102,7 +102,7 @@ layout: default
     <td>-</td>
     <td><a href="//nhspc2019.twpca.org/editorial/editorial">E</a></td>
     <td><a href="nhspc-2019/nhspc-2019-problemset.pdf">PS</a></td>
-    <td>-</td>
+    <td><a href="//cms.tfcis.org/dumprank/rank/rank25/">SC</a></td>
     <td>-</td>
     <td>-</td>
     <td><a href="//www.facebook.com/lawrence910426/posts/2851874321542853">lawrence910426</a></td>
@@ -149,7 +149,7 @@ layout: default
     </td>
     <td><a href="//toip2022.twpca.org/editorial/editorial">E</a></td>
     <td><a href="//toip2022.twpca.org/release/problem/problems.pdf">PS</a></td>
-    <td>-</td>
+    <td><a href="//sorahisa.github.io/OI/DumpedRanks/toi2022/ranking/Ranking.html">SC</a></td>
     <td><a href="//github.com/twpca/toi-primary-2022/tree/main/release/testdata">T</a></td>
     <td>-</td>
     <td>-</td>
@@ -165,7 +165,7 @@ layout: default
     <td><a href="//github.com/twpca/toi-primary-2021/tree/main/config">Config</a></td>
     <td><a href="//toip2021.twpca.org/editorial/editorial">E</a></td>
     <td><a href="//hackmd.io/@SorahISA/toi2021">PS</a></td>
-    <td>-</td>
+    <td><a href="//cms.tfcis.org/dumprank/rank/toi2021/l">SC</a></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
@@ -180,8 +180,8 @@ layout: default
     <td><a href="//github.com/twpca/toi-primary-2020/tree/main/validator">V</a></td>
     <td>-</td>
     <td><a href="//abc864197532.github.io/2021/03/05/toi-2020/">E</a></td>
-    <td><a href="toi-primary-2020/toi-primary-2020.pdf">PS</a></td>
-    <td>-</td>
+    <td><a href="toi-primary-2020/toi-primary-2020-problemset.pdf">PS</a></td>
+    <td><a href="//cms.tfcis.org/dumprank/rank/toi2020/">SC</a></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
