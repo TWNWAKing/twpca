@@ -4,11 +4,6 @@ layout: default
 
 # TW programming contest archive
 
-Adapted by TWNWAKing
-
-因為原專案的Source似乎有一些缺，所以我就來Fork一份維護一下好了。
-
-我不擁有任何題目的所有權。
 
 [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -16,6 +11,23 @@ Adapted by TWNWAKing
 
 ## 已公開資料
 
+### 英文代號
+
+- Y: Year
+- R: Repository
+- C: Checker
+- G: Generator
+- R: Repository
+- P: Problem
+- SO: Solution
+- O: Others
+- E: Editorial
+- PS: Problem Set
+- SC: Scoreboard
+- T: Test data
+- E: Editorial
+- O/PS/T: Organizer/ProblemSetter/Tester
+- Ps: Participants
 ### 全國資訊學科能力競賽 (NHSPC)
 
 <table>
@@ -71,7 +83,7 @@ Adapted by TWNWAKing
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/validator">V</a></td>
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/config">Config</a></td>
     <td><a href="//hiiragi4000.blogspot.com/2020/12/109.html">E</a></td>
-    <td>-</td>
+    <td><a href="nhspc-2020/nhspc-2020-problemset.pdf">PS</a></td>
     <td>-</td>
     <td>-</td>
     <td>
@@ -89,11 +101,11 @@ Adapted by TWNWAKing
     <td><a href="//github.com/twpca/nhspc-2019/tree/main/validator">V</a></td>
     <td>-</td>
     <td><a href="//nhspc2019.twpca.org/editorial/editorial">E</a></td>
+    <td><a href="nhspc-2019/nhspc-2019-problemset.pdf">PS</a></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td><a href="//www.facebook.com/lawrence910426/posts/2851874321542853">lawrence910426</a></td>
   </tr>
 </table>
 
@@ -167,8 +179,8 @@ Adapted by TWNWAKing
     <td><a href="//github.com/twpca/toi-primary-2020/tree/main/solution">SO</a></td>
     <td><a href="//github.com/twpca/toi-primary-2020/tree/main/validator">V</a></td>
     <td>-</td>
-    <td>-</td>
-    <td>-</td>
+    <td><a href="//abc864197532.github.io/2021/03/05/toi-2020/">E</a></td>
+    <td><a href="toi-primary-2020/toi-primary-2020.pdf">PS</a></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
