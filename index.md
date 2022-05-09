@@ -70,7 +70,7 @@ Adapted by TWNWAKing
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/solution">SO</a></td>
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/validator">V</a></td>
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/config">Config</a></td>
-    <td><a href="nhspc-2020/editorial.md">E</a></td>
+    <td><a href="//hiiragi4000.blogspot.com/2020/12/109.html">E</a></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
@@ -152,7 +152,7 @@ Adapted by TWNWAKing
     <td><a href="//github.com/twpca/toi-primary-2021/tree/main/validator">V</a></td>
     <td><a href="//github.com/twpca/toi-primary-2021/tree/main/config">Config</a></td>
     <td><a href="//toip2021.twpca.org/editorial/editorial">E</a></td>
-    <td><a href="//hackmd.io/@SorahISA/toi2021">E</a></td>
+    <td><a href="//hackmd.io/@SorahISA/toi2021">PS</a></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
