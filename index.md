@@ -164,7 +164,7 @@ layout: default
     <td><a href="//github.com/twpca/toi-primary-2021/tree/main/validator">V</a></td>
     <td><a href="//github.com/twpca/toi-primary-2021/tree/main/config">Config</a></td>
     <td><a href="//toip2021.twpca.org/editorial/editorial">E</a></td>
-    <td><a href="//hackmd.io/@SorahISA/toi2021">PS</a></td>
+    <td><a href="toi-primary-2021/toi-primary-2021-problemset.pdf">PS</a></td>
     <td><a href="//cms.tfcis.org/dumprank/rank/toi2021/">SC</a></td>
     <td>-</td>
     <td>-</td>
