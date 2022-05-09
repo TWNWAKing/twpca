@@ -4,6 +4,12 @@ layout: default
 
 # TW programming contest archive
 
+Adapted by TWNWAKing
+
+因為原專案的Source似乎有一些缺，所以我就來Fork一份維護一下好了。
+
+我不擁有任何題目的所有權。
+
 [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 [Archive 首頁](https://www.twpca.org/)
@@ -194,3 +200,4 @@ layout: default
 - Email: `admin@twpca.org`
 - [Github](//github.com/twpca/twpca.github.io)
 - [Github Org](//github.com/twpca)
+
