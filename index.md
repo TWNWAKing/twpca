@@ -152,7 +152,7 @@ Adapted by TWNWAKing
     <td><a href="//github.com/twpca/toi-primary-2021/tree/main/validator">V</a></td>
     <td><a href="//github.com/twpca/toi-primary-2021/tree/main/config">Config</a></td>
     <td><a href="//toip2021.twpca.org/editorial/editorial">E</a></td>
-    <td>-</td>
+    <td><a href="//hackmd.io/@SorahISA/toi2021">E</a></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
