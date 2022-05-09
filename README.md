@@ -25,3 +25,5 @@ This repo is adapted and updated by TWNWAKing.
 - 2020的TOI初選Editorial，我目前是暫時放abc寫的題解
 
 - 很多題本都是從<https://hackmd.io/XHPDF9STT0aDP_RJ388V3A>和<https://github.com/SorahISA/OI/tree/master/problems>找到的，感謝這兩位無私的分享資源，感恩感恩。
+
+- 找到類似隱藏選單: 點一下展開內容，再點一下收起來，類似[Hackmd 的 Spoiler](https://hackmd.io/@chiaoshin369/Shinbook/https%3A%2F%2Fhackmd.io%2F%40chiaoshin369%2Fhackmd#%E5%BB%B6%E4%BC%B8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-%E5%B0%8F%E8%A8%A3%E7%AB%85)
