@@ -64,7 +64,7 @@ layout: default
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/solution">SO</a></td>
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/validator">V</a></td>
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/config">Config</a></td>
-    <td><a href="//nhspc2020.twpca.org/editorial/editorial">E</a></td>
+    <td><a href="//github.com/TWNWAKing/twpca/blob/main/nhspc-2020/editorial.md">E</a></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
