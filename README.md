@@ -20,7 +20,7 @@ This repo is adapted and updated by TWNWAKing.
 
 然後有問題issue發一下，我會看到的owob(沒有在偷臭)。
 
-我不擁有任何題目的所有權。(廢話)
+我不擁有任何資源的所有權。(廢話)
 ## 提供資料
 
 本頁的宗旨是希望能提供一個公開且容易搜索的地方分享各式競技程式比賽資料。
@@ -50,6 +50,6 @@ This repo is adapted and updated by TWNWAKing.
 
 - 2020的TOI初選Editorial，我目前是暫時放abc864197532寫的題解。
 
-- ~~找到類似隱藏選單的功能: 點一下展開內容，再點一下收起來，類似[Hackmd 的 Spoiler](https://hackmd.io/@chiaoshin369/Shinbook/https%3A%2F%2Fhackmd.io%2F%40chiaoshin369%2Fhackmd#%E5%BB%B6%E4%BC%B8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-%E5%B0%8F%E8%A8%A3%E7%AB%85)~~ (已經找到了)
+- ~~找到類似隱藏選單的功能: 點一下展開內容，再點一下收起來，類似[Hackmd 的 Spoiler](https://hackmd.io/@chiaoshin369/Shinbook/https%3A%2F%2Fhackmd.io%2F%40chiaoshin369%2Fhackmd#%E5%BB%B6%E4%BC%B8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-%E5%B0%8F%E8%A8%A3%E7%AB%85)~~ (已經找到此功能了)
 
-- 將所有資料都丟到這個repo裡面
+- 將所有資料都備份(?)到這個repo裡面
