@@ -7,13 +7,12 @@ layout: default
 
 [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-[Archive 首頁](https://www.twpca.org/)
-
 ## 已公開資料
 
-### 英文代號
-
-- Y: Year
+<details>
+  <summary>表格內英文代號</summary>
+  
+  - Y: Year
 - R: Repository
 - C: Checker
 - G: Generator
@@ -28,6 +27,8 @@ layout: default
 - E: Editorial
 - O/PS/T: Organizer/ProblemSetter/Tester
 - Ps: Participants
+</details>
+
 ### 全國資訊學科能力競賽 (NHSPC)
 
 <table>
@@ -188,28 +189,4 @@ layout: default
   </tr>
 </table>
 
-## 提供資料
-
-本頁的宗旨是希望能提供一個公開且容易搜索的地方分享各式競技程式比賽資料。
-搜集資料的目的是為了提供給任何有興趣的人參考或練習，
-並不保證和原比賽題目完全一致。
-比賽形式、資料來源原則上只要沒有侵權都沒有特別的限制。
-
-關於資料權益相關的問題下面提供幾個原則參考：
-
-- 照法規舉辦的考試問題依法規定沒有著作權，只要在公開網路上搜集得到的資料都歡迎轉載或備份進來
-- 出題者、主辦者分享未公開問題無論是否有著作權問題原則上請取得主辦方的同意
-- 解答、各式文件、部落格文章等請取得原作者同意，並確認原作者是否願意具名
-
-可以將整理的資料投稿至下列聯絡信箱，或送 pull request 至已存在的 repo。
-
-## 管理者募集中
-
-如果你有興趣參與或協助維護資料，歡迎你聯絡下面信箱。
-
-## Contact
-
-- Email: `admin@twpca.org`
-- [Github](//github.com/twpca/twpca.github.io)
-- [Github Org](//github.com/twpca)
 
