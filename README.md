@@ -16,6 +16,8 @@ This repo is adapted and updated by TWNWAKing.
 
 主要的修改是是補上**題目跟記分板**的連結為主，還有一些(我自認)讓網站變得更好的改動。
 
+很多題本都是從<https://hackmd.io/XHPDF9STT0aDP_RJ388V3A>和<https://github.com/SorahISA/OI/tree/master/problems>找到的，感謝這兩位無私的分享資源，感恩感恩。
+
 然後有問題issue發一下，我會看到的owob(沒有在偷臭)。
 
 我不擁有任何題目的所有權。(廢話)
@@ -43,10 +45,11 @@ This repo is adapted and updated by TWNWAKing.
 - [Github](//github.com/twpca/twpca.github.io)
 - [Github Org](//github.com/twpca)
 - [TWNWAKing修改後的Repo](https://github.com/TWNWAKing/twpca)
-## 待修改的內容，想要徵的資料以及雜談
+- 
+## To Do List
 
-- 2020的TOI初選Editorial，我目前是暫時放abc864197532寫的題解
-
-- 很多題本都是從<https://hackmd.io/XHPDF9STT0aDP_RJ388V3A>和<https://github.com/SorahISA/OI/tree/master/problems>找到的，感謝這兩位無私的分享資源，感恩感恩。
+- 2020的TOI初選Editorial，我目前是暫時放abc864197532寫的題解。
 
 - ~~找到類似隱藏選單的功能: 點一下展開內容，再點一下收起來，類似[Hackmd 的 Spoiler](https://hackmd.io/@chiaoshin369/Shinbook/https%3A%2F%2Fhackmd.io%2F%40chiaoshin369%2Fhackmd#%E5%BB%B6%E4%BC%B8%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-%E5%B0%8F%E8%A8%A3%E7%AB%85)~~ (已經找到了)
+
+- 將所有資料都丟到這個repo裡面
