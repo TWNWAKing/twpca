@@ -45,7 +45,7 @@ This repo is adapted and updated by TWNWAKing.
 - [Github](//github.com/twpca/twpca.github.io)
 - [Github Org](//github.com/twpca)
 - [TWNWAKing修改後的Repo](https://github.com/TWNWAKing/twpca)
-- 
+
 ## To Do List
 
 - 2020的TOI初選Editorial，我目前是暫時放abc864197532寫的題解。
