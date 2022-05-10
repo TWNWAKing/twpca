@@ -12,21 +12,24 @@ layout: default
 <details>
   <summary>表格內英文代號</summary>
   
-  - Y: Year
-- R: Repository
-- C: Checker
-- G: Generator
-- R: Repository
-- P: Problem
-- SO: Solution
-- O: Others
-- E: Editorial
-- PS: Problem Set
-- SC: Scoreboard
-- T: Test data
-- E: Editorial
-- O/PS/T: Organizer/ProblemSetter/Tester
-- Ps: Participants
+<ul>
+<li>Y: Year</li>
+<li>R: Repository</li>
+<li>C: Checker</li>
+<li>G: Generator</li>
+<li>R: Repository</li>
+<li>P: Problem</li>
+<li>SO: Solution</li>
+<li>O: Others</li>
+<li>E: Editorial</li>
+<li>PS: Problem Set</li>
+<li>SC: Scoreboard</li>
+<li>T: Test data</li>
+<li>E: Editorial</li>
+<li>O/PS/T: Organizer/ProblemSetter/Tester</li>
+<li>Ps: Participants</li>
+</ul>
+
 </details>
 
 ### 全國資訊學科能力競賽 (NHSPC)
@@ -83,7 +86,7 @@ layout: default
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/solution">SO</a></td>
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/validator">V</a></td>
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/config">Config</a></td>
-    <td><a href="//hiiragi4000.blogspot.com/2020/12/109.html">E</a></td>
+    <td><a href="nhspc-2020/editorial.html">E</a></td>
     <td><a href="nhspc-2020/nhspc-2020-problemset.pdf">PS</a></td>
     <td><a href="//cms.tfcis.org/dumprank/rank/rank133/">SC</a></td>
     <td>-</td>
