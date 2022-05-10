@@ -3,7 +3,7 @@
 
 [Source](https://hiiragi4000.blogspot.com/2020/12/109.html)
 
-因為編者是用一些奇幻(?)的方法來搬運此Editorial的，所以與原文有任何出入請告訴我。
+因為維護者是用一些十分奇幻(?)的方法來搬運此Editorial的，所以內容與原文有任何出入請告訴我。
 
 ---
 
@@ -27,14 +27,16 @@
 
 演算法與 <a href="https://en.wikipedia.org/wiki/Quickselect" target="_blank">quickselect</a> 非常相似&#65292;期望時間複雜度為 $O(n)$&#12290;
 
+---
+
 <h2 style="text-align: left;">B. 村莊與小徑</h2>
 
 這題是一道最短路徑的問題&#65292;但給定的限制中有幾個點要注意&#65306;
 
-<ol style="text-align: left;">
-  給定的圖是 DAG&#65288;有向無環圖&#65289;&#12290;
-  邊權可能是負的&#12290;
-</ol>
+
+  1. 給定的圖是 DAG&#65288;有向無環圖&#65289;&#12290;
+  2. 邊權可能是負的&#12290;
+
 
 條件 1 保證這張圖存在拓樸排序&#65292;求解可用 top-down DP&#65292;或找出拓樸排序後用 bottom-up DP&#12290;
 
@@ -61,6 +63,7 @@ for (int i=1; i<=n; i++) {
   1. Dijkstra: 不能處理負權的最短路&#12290;
   2. Bellman&#8211;Ford / SPFA: 這類演算法在最糟情況下的複雜度是 $\Theta(nm)$&#65292;只能過比較小的測資&#12290;&#65288;註&#65306;SPFA 在圖為隨機生成的情況下跑得非常快&#65292;要防止讓 SPFA 過基本上需要構造測資&#12290;不過總而言之確實存在 SPFA 無法解過的測資&#65289;
 
+---
 
 <h2 style="text-align: left;">C. 樣本解析</h2>
 
@@ -70,7 +73,7 @@ for (int i=1; i<=n; i++) {
 
 <h3 style="text-align: left;">用 int 或 std::bitset 表示集合</h3>
 
-一個集合可以用一個 int 儲存&#65292;其中第 $i$ 個 bit 記錄這個集合有沒有第 $i$ 個元素&#12290;接下來就能利用 bitwise and/or 等內建運算來算出題目大部分的所求&#12290;如果不喜歡位元運算&#65292;C++ 也有提供 std::bitset 以協助實作&#12290;
+一個集合可以用一個 int 儲存&#65292;其中第 $i$ 個 bit 記錄這個集合有沒有第 $i$ 個元素&#12290;接下來就能利用 bitwise and/or 等內建運算來算出題目大部分的所求&#12290;如果不喜歡位元運算&#65292;C++ 也有提供 `std::bitset` 以協助實作&#12290;
 
 <h3 style="text-align: left;">枚舉所有的子集合</h3>
 
@@ -98,6 +101,8 @@ for (int i=x; ; i=(i-1)&x) {
   
 
 當然這題測資範圍並不要求觀察出這個結論&#65292;即使枚舉所有的子集合仍然能拿到滿分&#12290;
+
+---
 
 <h2 style="text-align: left;">D. 水果包裝</h2>
 
@@ -129,6 +134,8 @@ for (int i=x; ; i=(i-1)&x) {
   2. 將還沒放入 $b$ 且最輕的水果放進 $b$ 裡&#65292;並更新 $b$ 的重量&#12290;
 
 只要將包裝結果中的每個袋子的水果依重量排序&#65292;便可隨時查出該將哪個水果放入袋子中&#65307;找出最輕的袋子與更新重量部分&#65292;可以用堆積或 `std::priority_queue` 維護&#65292;在 $O(\log m)$ 時間完成每個操作&#12290;因此整體的複雜度為 $O(n(\log n+\log m))$&#12290;
+
+---
 
 <h2 style="text-align: left;">E. 共同朋友</h2>
 
@@ -173,6 +180,8 @@ bool have_common_friends(int i, int j) {
 ```
 
 
+---
+
 <h2 style="text-align: left;">F. 歡樂外送點</h2>
 
 從題敘中的圖 1 可以觀察到所有的商店服務範圍都是一個 $45$ 度的正方形&#65292;要怎麼把這題的座標轉 $45$ 度好好用區間資料結構維護就是這一題的重點&#12290;
@@ -206,6 +215,8 @@ bool have_common_friends(int i, int j) {
 
 這個將 2D 問題轉成掃描線降維的技巧相當著名&#65292;一個應用是計算二維的矩形面積覆蓋問題 (<a href="https://www.topcoder.com/community/competitive-programming/tutorials/line-sweep-algorithms" target="_blank">ref1</a>, <a href="https://stackoverflow.com/questions/55702005" target="_blank">ref2</a>)&#65292;
 有 $40$ 多年的<a href="https://en.wikipedia.org/wiki/Segment_tree#History" target="_blank">歷史</a>了&#12290;由於這個技巧在網路上可以找到的資源非常多&#65292;限於篇幅這裡就不詳細介紹了&#65292;對此技巧不熟的讀者也能從學著做這題開始&#12290;
+
+---
 
 <h2 style="text-align: left;">G. 矩陣相乘</h2>
 
@@ -318,6 +329,8 @@ bool have_common_friends(int i, int j) {
 
 
 時間複雜度如同前面分析過的&#65292;為 $O(n^2 \log n)$&#65292;但這次演算法 $100\%$ 會得出正確的結果&#12290;
+
+---
 
 <h2 style="text-align: left;">H. 跑跑遊戲場</h2>
 
