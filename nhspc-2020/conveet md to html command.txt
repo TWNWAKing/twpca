@@ -1,1 +1,0 @@
-pandoc --standalone --mathjax -f markdown -t html editorial.md -o editorial.html

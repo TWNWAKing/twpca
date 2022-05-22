@@ -1,0 +1,56 @@
+{
+  "knapsack": {
+    "time_limit": 1000,
+    "checker": "diff.cpp",
+    "score": [50, 50],
+    "pdf": true
+  },
+  "village": {
+    "time_limit": 1000,
+    "checker": "diff.cpp",
+    "score": [32, 68],
+    "pdf": true
+  },
+  "sample": {
+    "time_limit": 1000,
+    "checker": "diff.cpp",
+    "score": [23, 50, 27],
+    "pdf": true
+  },
+  "fruit": {
+    "time_limit": 1000,
+    "checker": "fruit.cc",
+    "score": [5, 23, 57, 15],
+    "pdf": true
+  },
+  "friend": {
+    "time_limit": 1500,
+    "checker": "diff.cpp",
+    "score": [9, 12, 79],
+    "pdf": true
+  },
+  "delivery": {
+    "time_limit": 3000,
+    "checker": "diff.cpp",
+    "score": [13, 21, 66],
+    "pdf": true
+  },
+  "matrix": {
+    "time_limit": 6500,
+    "checker": "diff.cpp",
+    "score": [21, 45, 34],
+    "pdf": true
+  },
+  "mouse": {
+    "time_limit": 200,
+    "checker": "mouse.cpp",
+    "score": [100],
+    "pdf": true
+  },
+  "blackwhite": {
+    "time_limit": 2000,
+    "checker": "diff.cpp",
+    "score": [9, 17, 74],
+    "pdf": true
+  }
+}

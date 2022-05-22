@@ -86,7 +86,7 @@ layout: default
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/solution">SO</a></td>
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/validator">V</a></td>
     <td><a href="//github.com/twpca/nhspc-2020/tree/main/config">Config</a></td>
-    <td><a href="nhspc-2020/editorial.html">E</a></td>
+    <td><a href="nhspc-2020/editorial/editorial.html">E</a></td>
     <td><a href="nhspc-2020/nhspc-2020-problemset.pdf">PS</a></td>
     <td><a href="//cms.tfcis.org/dumprank/rank/rank133/">SC</a></td>
     <td>-</td>
